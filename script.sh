@@ -1,4 +1,8 @@
 #!/bin/bash
 
-ls-la
+ls -la
+
+echo hello
+
+echo hello hello 
 
